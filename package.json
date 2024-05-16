@@ -1,0 +1,14 @@
+{
+  "name": "backoffice_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --record --key d81b8f62-f18b-4559-b5ea-56820ff9a683 --spec cypress/e2e/test/text.cy.js"
+  },
+  "author": "Mahfooz",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}

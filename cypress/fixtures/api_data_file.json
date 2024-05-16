@@ -1,0 +1,81 @@
+{
+    "cacProfile":
+        {
+          "accountNumber":"0260908762",
+          "regNo": "BN575",
+          "entityType":"bn",
+          "branchCode": "999",
+          "requester": "Admin"
+    },
+    "addressVerificationProfile":{
+      "PageNumber":1,
+      "MaxItem":10
+    },
+    "updateAPIRecord":{
+          "docid": "18",
+          "status": 2,
+          "officerId": "44",
+          "rejectReasons": "Expired means of identification"
+      },
+      "getRequestProfiles":{
+        "verifierID1":"4",
+        "verifierID2":"7",
+        "":""
+
+      },
+    "blankCardProfile":{
+      "subAgentID": "alat",
+      "branchID": "99",
+      "accountNoRequest": "0245330766",
+      "accountNumberTrack": "0270016091",
+      "amountDebited": 5000,
+      "numberOfCardRequested": 32,
+      "deliveryAddress": "Head Office",
+      "status": 2,
+      "addedDate": "2023-04-26 21:08:25.873",
+      "modifiedDate": "2023-04-26 21:08:25.873",
+      "ipAddress": "",
+      "reference": "searchingforblankcardsdetails"
+    },
+
+    "createRequestProfile":
+      {
+        "finacleUrl": 0,
+        "accountTierName": "",
+        "accountNumber":"",
+        "pndCode":"",
+        "finacleAppID":"AGB"
+      },
+      "crowdfundingProfile":{
+        "projectId":"64f25791-836a-4aae-2354-08db20bb5e1e",
+        "projectStatus":"6"
+      },
+
+      "trackRequestProfile":
+      {
+        "cif1": "R004499302",
+        "cif2":"R000995684",
+        "bvn": "22314347420",
+        "status": "BsmApproved|",
+        "email":"owotolafatai@gmail.com",
+        "activityID":"C26A43C9-2DC3-4471-AC44-00298B6BB9D2",
+        "accountNumber":"0248943677",
+        "schemeCode":""
+      },
+      "updateRequestProfile":
+      {
+        "tierID":"",
+        "glSubHead":"",
+        "cif":"",
+        "staffID":"",
+        "verifierID":"",
+        "afbCustomer":{
+          "profileId": "BN200011",
+          "status": 2,
+          "officer": 0,
+          "officerId": "4",
+          "rejectionReasons": ""
+        }
+      }
+}
+      
